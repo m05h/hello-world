@@ -1,2 +1,7 @@
-# hello-world
-test repo
+// hello-world
+#include<iostream.h>
+void main()
+{
+  cout<<"hello world!";
+  getch();
+}
